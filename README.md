@@ -22,7 +22,7 @@
   <li>currently i am located in Alin.Co </li>
   <li>i am working on content mangement applications</li>
   <li>i am learning .... </li>
-  <li>📫 How to reach me **hamidwise1@gmail.com** </li>
+  <li>📫 How to reach me via my email <a href="mailto:hamidwise1@gmail.com">hamidwise1@gmail.com</a> or <a href="www.linkedin.com/in/hamid-reza-akbari-2b90022b6">my linkedin</a></li>
 </ul>
 <br>
 <br>
