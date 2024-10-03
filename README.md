@@ -19,6 +19,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 <ul>
+  <li><a href="https://hrawebdev.github.io/CV/">my-cv</a></li>
   <li>currently i am located in Alin.Co </li>
   <li>i am working on content mangement applications</li>
   <li>i am learning .... </li>
